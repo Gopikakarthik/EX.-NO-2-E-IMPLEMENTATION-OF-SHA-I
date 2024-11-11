@@ -1,3 +1,4 @@
+# EX.-NO-2-E-IMPLEMENTATION-OF-SHA-I
 ## AIM:
   To implement the SHA-I hashing technique using C program.
   
